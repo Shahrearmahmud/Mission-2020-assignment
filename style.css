@@ -11,8 +11,8 @@ h1{
     color: orange;
 }
 .fle-c{
-    display: flex;
-    margin-bottom: 150px;
+    display: flex  ;
+    margin-bottom: 100px;
 }
 .one{
     width: 50%;
@@ -32,8 +32,8 @@ h1{
     padding: 10px 30px;
     border-radius: 5px;
 }
-.top-b{
-    background-image: url(images/top-banner.png);
+.top-c{
+    background-image: url(images/shape-1.png);
     background-repeat: no-repeat;
 }
 .dream-big{
@@ -61,10 +61,10 @@ h2{
 h3{
     font-size: 40px;
 }
-.ex{
+/*.ex{
     background-image:url(images/exp-bg.png) ;
     background-repeat: no-repeat;
-    padding-left: 20px;
+    padding-left: 20px; */
 
 }
 /*
@@ -82,8 +82,15 @@ h3{
 
 }
 */
-footer p{
+footer{
+    padding: 20px;
+}
+footer p {
     text-align: center;
+    background-color: black;
+    color:white;
+    padding: 20px;
+    
 }
 .blu{
     color:rgb(2, 2, 22)
@@ -92,3 +99,23 @@ footer p{
 .org{
     color: rgb(212, 176, 16);
 }
+
+h4{
+    font-size: 30px;
+    text-align: left;
+    color:rgb(3, 2, 39)
+}
+.contract{
+    padding: 15px;
+}
+.c{
+    color:white;
+    font-size: 30px;
+}
+.colo{
+    color:rgb(243, 167, 179)
+}
+.f{
+    padding:10px;
+}
+
